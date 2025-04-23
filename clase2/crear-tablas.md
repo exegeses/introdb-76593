@@ -23,4 +23,3 @@
         dni int unsigned unique not null,    
         alta date not null  
     );
-

@@ -15,4 +15,15 @@
 ## alfanuméricos
 > caractéres
 
-## fechas 
+
+
+
+## Fechas 
+
+    date        '2020-05-04'  yyyy-mm-dd    
+    datetime    '2022-02-03 11:13:42'  yyyy-mm-dd hh:mm:ss
+    time        '11:13:42'
+    year        '2023'
+    timestamp   '1680532244' 
+
+> UNIX timestamp: El tiempo transcurrido expresado en milisegundos desde el 01-01-1970
