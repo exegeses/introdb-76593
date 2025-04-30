@@ -11,11 +11,25 @@
 
 > decimales
 
+    float   0.402823466  
+    double  0.402823466402823466  
+
+    decimal  
+
+> otros
+
+    boolean    |  1 ó 0     --- tiniynt(1)  
+    bit     10  
 
 ## alfanuméricos
 > caractéres
 
-
+    char        255  
+    varchar     65535  
+    tinyText    255  
+    smallText   65535  
+    mediumText  16777215  
+    Text        4294967295  
 
 
 ## Fechas 
