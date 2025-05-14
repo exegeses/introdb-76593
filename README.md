@@ -1,4 +1,4 @@
-<img src="extras/header.webp">
+<img src="extras/header.png">
 
 # Curso de Introducción a las Bases de datos y SQL | código 76593
 
