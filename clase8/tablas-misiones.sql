@@ -25,8 +25,8 @@ create table misiones
     cohete varchar(45) not null,
     fecha_lanzamiento date not null,
     resultado boolean not null,
-    FOREIGN KEY (ID_AGENCIA) REFERENCES agencias (ID_AGENCIA),
-    FOREIGN KEY (ID_PAIS) REFERENCES PAISES (ID_PAIS)
+    foreign key (id_agencia) REFERENCES agencias (id_agencia),
+    foreign key (id_pais) REFERENCES paises (id_pais)
 );
 
 

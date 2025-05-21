@@ -1,0 +1,55 @@
+nombre_producto,precio,precio*1.05,nombre_marca,nombre_categoria
+"Acer Swift 5",999.99,1049.9895,Acer,Laptops
+"Logitech G Pro X Superlight",149.99,157.4895,Acer,Gaming
+"GoPro HERO11 Black",399.99,419.9895,Acer,Cámaras
+"Logitech MX Keys Mini",99.99,104.9895,Acer,Accesorios
+"MacBook Pro 16"",2499.99,2624.9895,Apple,Laptops
+"iPad Pro 12.9"",1099.99,1154.9895,Apple,Tablets
+"Amazon Echo Show 10",249.99,262.4895,Apple,Domótica
+"Apple AirPods Pro 2",249.99,262.4895,Apple,Audio
+"Apple Watch Series 9",399.99,419.9895,Apple,Accesorios
+"iPhone 15 Pro Max",1199.99,1259.9895,Apple,Smartphones
+"Asus ROG Zephyrus G14",1499.99,1574.9895,Asus,Laptops
+"Asus ROG Swift PG32UQX",2999.99,3149.9895,Asus,Gaming
+"WD Black SN850X 1TB",159.99,167.9895,Asus,Almacenamiento
+"Bose QuietComfort Ultra Earbuds",299.99,314.9895,Bose,Audio
+"Sonos Arc",899.99,944.9895,Bose,Audio
+"Canon EOS R6 Mark II",2499.99,2624.9895,Canon,Cámaras
+"Epson EcoTank ET-4850",499.99,524.9895,Canon,Impresoras
+"Adobe Creative Cloud",599.99,629.9895,Canon,Software
+"Dell XPS 15",1899.99,1994.9895,Dell,Laptops
+"Anker 737 Power Bank",149.99,157.4895,Dell,Accesorios
+"Dell UltraSharp U3223QE",799.99,839.9895,Dell,Monitores
+"Google Nest Hub Max",229.99,241.4895,Google,Domótica
+"Google Pixel 8 Pro",999.99,1049.9895,Google,Smartphones
+"HP Spectre x360",1399.99,1469.9895,HP,Laptops
+"HP OfficeJet Pro 9025e",329.99,346.4895,HP,Impresoras
+"Lenovo ThinkPad X1 Carbon",1599.99,1679.9895,Lenovo,Laptops
+"Lenovo Tab P12 Pro",699.99,734.9895,Lenovo,Tablets
+"Nintendo Switch OLED",349.99,367.4895,Lenovo,Gaming
+"LG OLED C3 55"",1599.99,1679.9895,LG,Televisores
+"LG QuadWash Dishwasher",899.99,944.9895,LG,Electrodomésticos
+"Philips Hue Starter Kit",179.99,188.9895,LG,Domótica
+"LG UltraGear 27GP950",899.99,944.9895,LG,Monitores
+"Microsoft Surface Pro 9",999.99,1049.9895,Microsoft,Tablets
+"Microsoft Xbox Series X",499.99,524.9895,Microsoft,Gaming
+"Microsoft 365 Family",99.99,104.9895,Microsoft,Software
+"Samsung Galaxy Tab S9 Ultra",899.99,944.9895,Samsung,Tablets
+"Samsung Neo QLED QN90C 75"",2499.99,2624.9895,Samsung,Televisores
+"Samsung The Frame 50"",1299.99,1364.9895,Samsung,Televisores
+"Samsung Family Hub French Door Refrigerator",2799.99,2939.9895,Samsung,Electrodomésticos
+"Samsung Bespoke Jet Vacuum",699.99,734.9895,Samsung,Electrodomésticos
+"Samsung Galaxy Watch6 Classic",349.99,367.4895,Samsung,Accesorios
+"Samsung Galaxy S24 Ultra",1199.99,1259.9895,Samsung,Smartphones
+"Samsung 990 PRO 2TB",249.99,262.4895,Samsung,Almacenamiento
+"Sony Bravia XR A95L OLED 65"",2999.99,3149.9895,Sony,Televisores
+"Sony X90L 65" LED",1399.99,1469.9895,Sony,Televisores
+"Sony PlayStation 5",499.99,524.9895,Sony,Gaming
+"Sony Alpha a7 IV",2499.99,2624.9895,Sony,Cámaras
+"Sony WH-1000XM5",399.99,419.9895,Sony,Audio
+"Marshall Stanmore III",379.99,398.9895,Sony,Audio
+"TP-Link Deco X20 Mesh WiFi",249.99,262.4895,TP-Link,Domótica
+"TP-Link Archer AX90",299.99,314.9895,TP-Link,Redes
+"Netgear Orbi RBKE963",1499.99,1574.9895,TP-Link,Redes
+"DJI Mini 3 Pro",759.99,797.9895,Xiaomi,Cámaras
+"Xiaomi 14 Ultra",1099.99,1154.9895,Xiaomi,Smartphones
